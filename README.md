@@ -1,11 +1,14 @@
-# Anirudh-Iyer-WP-website
-This is the repo for Anirudh Iyer's website for Web programming
+# Personal Website - Vue 3
 
-## Pages
-- **Home Page**: Welcome message with a cookie clicker and pop-up "About Me" section 
-- **Projects Page**: Project showcase that is seperated by my completed and in progress projects
-- **Contact Page**: Contact form that contains my downloadable resume and a link to my Github and LinkdIn
+A modern personal website built with Vue 3 and Vite, featuring multiple interactive sections and modern web development practices.
 
+## Features
+
+- **Home Section**: Dynamic welcome message with visitor counter
+- **Projects Section**: Interactive project showcase
+- **Contact Section**: Form with real-time validation
+- Modern animations and transitions
+- Responsive design
 
 ## Technical Implementation
 
